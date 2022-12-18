@@ -11,8 +11,8 @@ sudo apt install figlet
 
 git clone https://github.com/jagoanneon01/encrypt
 
-# Perintah Menjalankan Script
-cd
+# Perintah Menjalankan SCRIPT
+cd encrypt
 bash ronggo.sh
 
 # Dah Cok Mau Apa Lagi Gass lah
