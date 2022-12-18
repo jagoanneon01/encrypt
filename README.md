@@ -9,7 +9,7 @@ sudo apt install figlet
 
 #salin repo git
 
-git clone https://github.com/jagoanneon01/encrypt/ronggo.sh'
+git clone https://github.com/jagoanneon01/encrypt/ronggo.sh
 
 # Perintah Menjalankan Script
 cd
