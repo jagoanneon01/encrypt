@@ -15,11 +15,11 @@ pwd=$(pwd)
 
 
 figlet -f small ENCRYPT Bash By Ronggo86 | lolcat
-echo -e "$BLUE Encrypt your BASH shell/script"
+echo -e "$BLUE Masukkan File.sh Nya cok"
 #echo -e "$GREEN$BOLD Encrypt$STAND your$GREEN$BOLD BASH$STAND script"
 #echo -e "$RED$BOLD Encode your bash script$STAND"
 #echo -e "$GREEN by- Ronggo86"
-echo -e "$STAND\n input file  : \c"
+echo -e "$STAND\n input filemu  : \c"
 read infile
 
 ls | grep $infile >> /dev/null
