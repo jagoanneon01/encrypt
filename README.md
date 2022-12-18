@@ -16,4 +16,5 @@ cd
 bash ronggo.sh
 
 # Dah Cok Mau Apa Lagi Gass lah
-# Admin Wa wa.me/+6283857684916
+# Admin Wa
+wa.me/+6283857684916
